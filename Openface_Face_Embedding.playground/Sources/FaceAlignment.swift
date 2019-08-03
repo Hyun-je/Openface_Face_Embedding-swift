@@ -110,8 +110,6 @@ public func getAlignedFace(face_image: UIImage, faceLandmark: VNFaceLandmarks2D)
                 vector, 1,
                 0.0, &answer_matrix, 1)
     
-    print(answer_matrix)
-    
     
     var transform = CGAffineTransform()
     transform.a = CGFloat(answer_matrix[0])

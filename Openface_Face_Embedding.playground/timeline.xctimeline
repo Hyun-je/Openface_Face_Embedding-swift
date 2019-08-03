@@ -3,24 +3,30 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/jason/Documents/Github/Openface_Face_Embedding-swift/Openface_Face_Embedding.playground#CharacterRangeLen=82&amp;CharacterRangeLoc=214&amp;EndingColumnNumber=0&amp;EndingLineNumber=10&amp;StartingColumnNumber=0&amp;StartingLineNumber=9&amp;Timestamp=586525110.040815"
+         documentLocation = "file:///Users/jason/Documents/Github/Openface_Face_Embedding-swift/Openface_Face_Embedding.playground#CharacterRangeLen=289&amp;CharacterRangeLoc=229&amp;EndingColumnNumber=0&amp;EndingLineNumber=19&amp;StartingColumnNumber=0&amp;StartingLineNumber=11&amp;Timestamp=586528246.0145479"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/jason/Documents/Github/Openface_Face_Embedding-swift/Openface_Face_Embedding.playground#CharacterRangeLen=12&amp;CharacterRangeLoc=219&amp;EndingColumnNumber=17&amp;EndingLineNumber=9&amp;StartingColumnNumber=5&amp;StartingLineNumber=9&amp;Timestamp=586525110.040971"
+         documentLocation = "file:///Users/jason/Documents/Github/Openface_Face_Embedding-swift/Openface_Face_Embedding.playground#CharacterRangeLen=12&amp;CharacterRangeLoc=234&amp;EndingColumnNumber=17&amp;EndingLineNumber=11&amp;StartingColumnNumber=5&amp;StartingLineNumber=11&amp;Timestamp=586528246.014683"
+         lockedSize = "{449, 207}"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/jason/Documents/Github/Openface_Face_Embedding-swift/Openface_Face_Embedding.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=20&amp;EndingColumnNumber=15&amp;EndingLineNumber=3&amp;StartingColumnNumber=5&amp;StartingLineNumber=3&amp;Timestamp=586525110.0410939"
+         documentLocation = "file:///Users/jason/Documents/Github/Openface_Face_Embedding-swift/Openface_Face_Embedding.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=35&amp;EndingColumnNumber=15&amp;EndingLineNumber=5&amp;StartingColumnNumber=5&amp;StartingLineNumber=5&amp;Timestamp=586528246.014794"
          lockedSize = "{434.76521739130436, 253}"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/jason/Documents/Github/Openface_Face_Embedding-swift/Openface_Face_Embedding.playground#CharacterRangeLen=14&amp;CharacterRangeLoc=123&amp;EndingColumnNumber=19&amp;EndingLineNumber=7&amp;StartingColumnNumber=5&amp;StartingLineNumber=7&amp;Timestamp=586525110.041222"
-         lockedSize = "{434.76521739130436, 248}"
+         documentLocation = "file:///Users/jason/Documents/Github/Openface_Face_Embedding-swift/Openface_Face_Embedding.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=516&amp;EndingColumnNumber=0&amp;EndingLineNumber=18&amp;StartingColumnNumber=25&amp;StartingLineNumber=17&amp;Timestamp=586528246.0149"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jason/Documents/Github/Openface_Face_Embedding-swift/Openface_Face_Embedding.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=517&amp;EndingColumnNumber=0&amp;EndingLineNumber=18&amp;StartingColumnNumber=0&amp;StartingLineNumber=18&amp;Timestamp=586528246.015007"
+         lockedSize = "{734, 304}"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
