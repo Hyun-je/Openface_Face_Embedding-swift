@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jason/Documents/Github/Openface_Face_Embedding-swift/Openface_Face_Embedding.playground#CharacterRangeLen=82&amp;CharacterRangeLoc=214&amp;EndingColumnNumber=0&amp;EndingLineNumber=10&amp;StartingColumnNumber=0&amp;StartingLineNumber=9&amp;Timestamp=586525110.040815"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jason/Documents/Github/Openface_Face_Embedding-swift/Openface_Face_Embedding.playground#CharacterRangeLen=12&amp;CharacterRangeLoc=219&amp;EndingColumnNumber=17&amp;EndingLineNumber=9&amp;StartingColumnNumber=5&amp;StartingLineNumber=9&amp;Timestamp=586525110.040971"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jason/Documents/Github/Openface_Face_Embedding-swift/Openface_Face_Embedding.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=20&amp;EndingColumnNumber=15&amp;EndingLineNumber=3&amp;StartingColumnNumber=5&amp;StartingLineNumber=3&amp;Timestamp=586525110.0410939"
+         lockedSize = "{434.76521739130436, 253}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jason/Documents/Github/Openface_Face_Embedding-swift/Openface_Face_Embedding.playground#CharacterRangeLen=14&amp;CharacterRangeLoc=123&amp;EndingColumnNumber=19&amp;EndingLineNumber=7&amp;StartingColumnNumber=5&amp;StartingLineNumber=7&amp;Timestamp=586525110.041222"
+         lockedSize = "{434.76521739130436, 248}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
